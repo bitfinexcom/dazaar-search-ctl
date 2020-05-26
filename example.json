@@ -1,0 +1,12 @@
+{
+  "id": "deadbeef",
+  "keywords": ["test", "card"],
+  "description": "This is a test card",
+  "payment": {
+    "currency": "EOS",
+    "unit": "minutes",
+    "interval": "2",
+    "amount": "0.0001",
+    "payTo": "SELLERS00ADDRESS"
+  }
+}
