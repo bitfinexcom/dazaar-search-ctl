@@ -1,0 +1,24 @@
+{
+  "name": "dazaar-search-ctl",
+  "version": "0.0.0",
+  "description": "CLI to administrate a Dazaar search index",
+  "bin": {
+    "dazaar-search-ctl": "./bin.js"
+  },
+  "dependencies": {
+    "@hyperswarm/replicator": "^1.7.1",
+    "blake2b-universal": "^1.0.0",
+    "hyperindex": "^1.0.1",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bitfinexcom/dazaar-search-ctl.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitfinexcom/dazaar-search-ctl/issues"
+  },
+  "homepage": "https://github.com/bitfinexcom/dazaar-search-ctl"
+}
